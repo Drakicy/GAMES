@@ -106,4 +106,4 @@ Visualizes the solution
 
 ## Examples
 
-Every example from the article linked above is present in the directory. See the article for more information.
+Every example from the article is linked above is present in the directory. See the article for more information.
