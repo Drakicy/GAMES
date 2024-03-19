@@ -102,7 +102,7 @@ Fits the triangulation with the input parameters
 
 Visualizes the solution
 
-*Method parameters: visParam (an subarray of* $[-1,0,1]$*, optional) selects the type of approximation points to visualize*
+*Method parameters: visParam (a subarray of* $[-1,0,1]$*, optional) selects the type of approximation points to visualize*
 
 ## Examples
 
