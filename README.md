@@ -103,3 +103,7 @@ Fits the triangulation with the input parameters
 Visualizes the solution
 
 *Method parameters: visParam (an subarray of* $[-1,0,1]$*, optional) selects the type of approximation points to visualize*
+
+## Examples
+
+Every example from the article linked above is present in the directory. See the article for more information.
