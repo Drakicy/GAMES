@@ -72,6 +72,7 @@ for i = 1:4
     set(ax, FontSize=Global_FontSize);
     xlabel(ax, '$x$', FontSize=Axes_FontSize);
     ylabel(ax, '$y$', FontSize=Axes_FontSize);
+    zlabel(ax, '$p$', FontSize=Axes_FontSize);
     title(ax, Title_Set(i), FontSize=Title_FontSize);
 
     view(ax,45,30);
