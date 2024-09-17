@@ -10,6 +10,4 @@ The solver is represented as a hybrid class in MATLAB for $d \in \\{ 0, 1\\}$. T
 
 ## Detailed description
 
-For details, see **GAMES.m** and the following article:
-
-**Insert DOI Here**
+For details, see **GAMES.m** and the following [article](http://dx.doi.org/10.1016/j.cam.2024.116217)
